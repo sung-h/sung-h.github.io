@@ -4,7 +4,7 @@ title: About
 permalink: /About/
 ---
 
-##About
+## About
 
 Start of designing and sharing a new system for my life.
 
@@ -15,7 +15,7 @@ Developing a life system that allows me to
 - share
 
 
-###Content
+### Content
 - Topics
 
 ### Chosing a publishing system
