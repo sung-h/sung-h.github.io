@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /theme/
+permalink: /About/
 ---
 
 ##About
