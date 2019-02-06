@@ -11,10 +11,10 @@ tags: [learn, setup]
 
 
 ## Setting up Goals
-Cost (Free)
-Simplicity vs Features (Speed)
-Control
-Best Practices (Safe, learn, grow)
+- Cost (Free)
+- Simplicity vs Features (Speed)
+- Control
+- Best Practices (Safe, learn, grow)
 
 Still too technical
 
