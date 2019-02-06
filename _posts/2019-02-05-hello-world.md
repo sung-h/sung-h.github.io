@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello world"
 categories: [blog]
 tags: [learn]
 ---
