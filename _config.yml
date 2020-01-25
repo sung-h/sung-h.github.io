@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   What if you can design a life system from scratch? What would you change? Where do you start?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: paldari
-github_username:  sung-h
+twitter_username: hugiselephant
+github_username:  hugiselephant
 
 # Build settings
 markdown: kramdown
